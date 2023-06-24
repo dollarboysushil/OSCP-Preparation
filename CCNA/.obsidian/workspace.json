@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "913232d8caf05407",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d0a60284e924b34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd7d395cd71d239e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-TCP IP Model/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be8f2e3c82e4aafd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1804d4074970e1fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa4bb60a28727f65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "871976b48b888fb6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2cd6e97a95cf3279",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99d9e896ddd73b60",
+    "type": "split",
+    "children": [
+      {
+        "id": "501261bfafe5e397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6af387126ca83b23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04-TCP IP Model/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fbb819996307260",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04-TCP IP Model/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee1f103d02d6b151",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5c361ade3b9adb7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04-TCP IP Model/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cd7d395cd71d239e",
+  "lastOpenFiles": [
+    "Pasted image 20230624173730.png",
+    "04-TCP IP Model/Untitled.md",
+    "Pasted image 20230624173748.png",
+    "Untitled.md",
+    "04-TCP IP Model"
+  ]
+}
