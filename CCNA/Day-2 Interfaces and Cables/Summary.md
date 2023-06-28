@@ -6,6 +6,5 @@
 ## Data on Hard Drives are measured in bytes
 
 # 3) Ethernet Standards
-![[eth_standards.png]]
+![eth_standards](images/eth_standards.png)
 
-![[eth_standards.png]]
